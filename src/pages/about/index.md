@@ -3,11 +3,9 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-
-
 ## HAND IS THE VISIBLE PART OF BRAIN
 
-In my own ***long experience*** I could not help but remark the intimate relation between the effect of these great planets of our Universe and humanity in general.Although it would not be within the scope of this work to teach also Astrology in these pages.This is also demonstrated by the position and shape of the mounts on the hand .
+In my own ***long experience*** I Could not help but remark the intimate relation between the effect of these great planets of our Universe and humanity in general.Although it would not be within the scope of this work to teach also Astrology in these pages.This is also demonstrated by the position and shape of the mounts on the hand .
 
 ***Required :***
 
@@ -15,15 +13,7 @@ In my own ***long experience*** I could not help but remark the intimate relatio
 
 ***2. Left Palm photo for Female.***
 
-
-
 ***Rs 500-/ per Session. ( 5 Questions)***
-
-
-
-
-
-
 
 ***PAYMENT METHOD***
 
